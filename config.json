@@ -1,0 +1,15 @@
+{
+    "ban_3h": 50,
+    "ban_6h": 80,
+    "ban_12h": 120,
+    "ban_24h": 160,
+    "ban_permanent": 500,
+
+    "mute_3h": 30,
+    "mute_6h": 40,
+    "mute_9h": 45,
+    "mute_12h": 60,
+
+    "unban": 200,
+    "unmute": 50
+}
